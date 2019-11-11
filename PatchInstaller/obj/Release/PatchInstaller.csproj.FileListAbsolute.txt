@@ -1,0 +1,9 @@
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\bin\Release\SamplePatch.exe.config
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\bin\Release\SamplePatch.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\bin\Release\SamplePatch.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\bin\Release\System.Management.Automation.dll
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\obj\Release\PatchInstaller.Form1.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\obj\Release\PatchInstaller.Properties.Resources.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\obj\Release\PatchInstaller.csproj.GenerateResource.Cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\obj\Release\SamplePatch.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\PatchInstaller\PatchInstaller\obj\Release\SamplePatch.pdb

@@ -1,0 +1,10 @@
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\WindowsUpdatesInstaller.Form1.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\WindowsUpdatesInstaller.Properties.Resources.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\WindowsUpdatesInstaller.csproj.GenerateResource.Cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\WindowsUpdatesInstaller.csprojResolveAssemblyReference.cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Release\SMB1 Vulnerability.exe.config
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Release\SMB1 Vulnerability.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Release\SMB1 Vulnerability.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\SMB1 Vulnerability.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Release\SMB1 Vulnerability.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Release\System.Management.Automation.dll

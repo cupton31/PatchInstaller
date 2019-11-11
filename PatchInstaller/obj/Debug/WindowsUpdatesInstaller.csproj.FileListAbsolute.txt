@@ -1,0 +1,18 @@
+c:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.csprojResolveAssemblyReference.cache
+c:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.Form1.resources
+c:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.Properties.Resources.resources
+c:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.csproj.GenerateResource.Cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.exe.config
+C:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller .NET 3.5.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\WindowsUpdatesInstaller\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller .NET 3.5.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.exe.config
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller .NET 3.5.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller .NET 3.5.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.csprojResolveAssemblyReference.cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\bin\Debug\WindowsUpdatesInstaller .NET 3.5.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.Form1.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.Properties.Resources.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\SMB1 Vulnerability\WindowsUpdatesInstaller\obj\Debug\WindowsUpdatesInstaller.csproj.GenerateResource.Cache
